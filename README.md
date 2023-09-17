@@ -19,7 +19,7 @@
 
 # Finished projects of 2023
 - [x] [WI-NET](https://github.com/TheLawnMower/WI-NET) (private - suspended)
-- [x] [SPARTAN](https://github.com/JustTangerine/SPARTAN) (demo)
+- [ ] [SPARTAN](https://github.com/JustTangerine/SPARTAN) (demo)
 - [ ] [Eterna](https://github.com/TheLawnMower/Eterna) (suspended)
 <br>
  

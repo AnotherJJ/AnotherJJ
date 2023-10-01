@@ -20,11 +20,8 @@
 &nbsp; &nbsp; &nbsp; &nbsp;![stats.png](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustTangerine&theme=radical)
  <br>
 
-# Finished projects of 2023
-- [x] [WI-NET](https://github.com/TheLawnMower/WI-NET) (private - suspended)
-- [x] [CustomJoin](https://github.com/JustTangerine/CustomJoin) (1.0 released)
-- [ ] [SPARTAN](https://github.com/JustTangerine/SPARTAN) (demo)
-- [ ] [Eterna](https://github.com/TheLawnMower/Eterna) (suspended)
+# Repos status
+> all unofficial repos has been deleted, they will be republished once released.
 <br>
  
 

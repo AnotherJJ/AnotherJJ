@@ -21,7 +21,7 @@
  <br>
 
 # Repos status
-> all unofficial repos has been deleted, they will be republished once released except [AncientRunes](https://github.com/JustTangerine/AncientRunes).
+> all unofficial repos has been deleted.
 <br>
  
 

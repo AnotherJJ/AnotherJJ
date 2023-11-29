@@ -17,7 +17,7 @@
 
 # Stats...
 
-&nbsp; &nbsp; &nbsp; &nbsp;![stats.png](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustTangerine&theme=radical)
+&nbsp; &nbsp; &nbsp; &nbsp;![stats.png](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnotherJJ&theme=radical)
  <br>
 
 # Repos status
